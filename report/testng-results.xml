@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="66368" started-at="2019-09-22T14:03:08 PDT" finished-at="2019-09-22T14:04:14 PDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="66368" started-at="2019-09-22T14:03:08 PDT" finished-at="2019-09-22T14:04:14 PDT">
+      <class name="packOne.ClassFour">
+        <test-method status="PASS" signature="methodFourA()[pri:0, instance:packOne.ClassFour@4909b8da]" name="methodFourA" duration-ms="20678" started-at="2019-09-22T14:03:54 PDT" finished-at="2019-09-22T14:04:14 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodFourA -->
+        <test-method status="PASS" signature="methodFourB()[pri:0, instance:packOne.ClassFour@4909b8da]" name="methodFourB" duration-ms="0" started-at="2019-09-22T14:04:14 PDT" finished-at="2019-09-22T14:04:14 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodFourB -->
+      </class> <!-- packOne.ClassFour -->
+      <class name="packOne.ClassOne">
+        <test-method status="PASS" signature="methodOneA()[pri:0, instance:packOne.ClassOne@6b143ee9]" name="methodOneA" duration-ms="16001" started-at="2019-09-22T14:03:08 PDT" finished-at="2019-09-22T14:03:24 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodOneA -->
+      </class> <!-- packOne.ClassOne -->
+      <class name="packOne.ClassThree">
+        <test-method status="PASS" signature="methodThreeA()[pri:0, instance:packOne.ClassThree@6615435c]" name="methodThreeA" duration-ms="16125" started-at="2019-09-22T14:03:37 PDT" finished-at="2019-09-22T14:03:54 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodThreeA -->
+        <test-method status="PASS" signature="methodThreeB()[pri:0, instance:packOne.ClassThree@6615435c]" name="methodThreeB" duration-ms="0" started-at="2019-09-22T14:03:54 PDT" finished-at="2019-09-22T14:03:54 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodThreeB -->
+      </class> <!-- packOne.ClassThree -->
+      <class name="packOne.ClassTwo">
+        <test-method status="PASS" signature="methodTwoA()[pri:0, instance:packOne.ClassTwo@1936f0f5]" name="methodTwoA" duration-ms="13518" started-at="2019-09-22T14:03:24 PDT" finished-at="2019-09-22T14:03:37 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTwoA -->
+      </class> <!-- packOne.ClassTwo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
